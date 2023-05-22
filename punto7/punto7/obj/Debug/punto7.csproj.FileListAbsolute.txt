@@ -1,0 +1,8 @@
+C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\punto7\punto7\bin\Debug\punto7.exe.config
+C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\punto7\punto7\bin\Debug\punto7.exe
+C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\punto7\punto7\bin\Debug\punto7.pdb
+C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\punto7\punto7\obj\Debug\punto7.csproj.AssemblyReference.cache
+C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\punto7\punto7\obj\Debug\punto7.csproj.SuggestedBindingRedirects.cache
+C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\punto7\punto7\obj\Debug\punto7.csproj.CoreCompileInputs.cache
+C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\punto7\punto7\obj\Debug\punto7.exe
+C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\punto7\punto7\obj\Debug\punto7.pdb
