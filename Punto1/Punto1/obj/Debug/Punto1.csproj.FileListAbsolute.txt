@@ -1,8 +1,0 @@
-C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\Punto1\Punto1\bin\Debug\Punto1.exe.config
-C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\Punto1\Punto1\bin\Debug\Punto1.exe
-C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\Punto1\Punto1\bin\Debug\Punto1.pdb
-C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\Punto1\Punto1\obj\Debug\Punto1.csproj.AssemblyReference.cache
-C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\Punto1\Punto1\obj\Debug\Punto1.csproj.SuggestedBindingRedirects.cache
-C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\Punto1\Punto1\obj\Debug\Punto1.csproj.CoreCompileInputs.cache
-C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\Punto1\Punto1\obj\Debug\Punto1.exe
-C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\Punto1\Punto1\obj\Debug\Punto1.pdb
