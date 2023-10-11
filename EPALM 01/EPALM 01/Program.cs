@@ -9,9 +9,9 @@ namespace EPALM_01
     public class Cuenta
     {
         // Titular.
-        string titular;
+        public string titular;
         // Cantidad;
-        float cantidad;
+        public float cantidad;
         public Cuenta(string titu, float cant)
         {
             titular = titu;
@@ -31,7 +31,7 @@ namespace EPALM_01
         }
         public void Retirar(double CantidadIntro)
         {
-            if (CantidadIntro > cantidad)
+            if (CantidadIntro < cantidad)
             {
                 cantidad = cantidad - Convert.ToSingle(CantidadIntro);
             }
@@ -41,6 +41,19 @@ namespace EPALM_01
     {
         static void Main(string[] args)
         {
+            Cuenta Cuenta1 = new Cuenta("Anastacio", 500f);
+            Console.WriteLine(Cuenta1.cantidad);
+            Console.WriteLine("| Cantidad original en la cuenta.\n\n");
+
+            Console.Write("> Cantidad a ingresar: ");
+            Cuenta1.Ingresar(Convert.ToDouble(Console.ReadLine()));
+            Console.WriteLine("\n\n| Cantidad actual en la cuenta: " + Cuenta1.cantidad);
+
+            Console.Write("> Cantidad a retirar: ");
+            Cuenta1.Retirar(Convert.ToDouble(Console.ReadLine()));
+            Console.WriteLine("\n\n| Cantidad actual en la cuenta: " + Cuenta1.cantidad);
+
+            Console.ReadKey();
         }
     }
 }
