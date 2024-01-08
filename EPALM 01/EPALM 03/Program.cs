@@ -38,6 +38,8 @@ namespace EPALM_03
         public Password(int longitud = 8)
         {
             this.longitud = longitud;
+
+            generarContraseña();
         }
 
         public bool esFuerte()
@@ -72,7 +74,7 @@ namespace EPALM_03
             Random random = new Random();
             List<char> contraseñaEnProgreso = new List<char>();
 
-            for (int i = 0;  i < contraseña; i++)
+            for (int i = 0;  i < longitud; i++)
             {
                 int generadorDeRedstone = random.Next(1, 4);
 
@@ -96,6 +98,23 @@ namespace EPALM_03
     {
         static void Main(string[] args)
         {
+            Console.Write("> ¿Cuantas contraseñas quieres hacer?: ");
+            int NumeroDeContraseñas = Convert.ToInt32(Console.ReadLine());
+
+            bool[] fortalezaDeLaContraseña = new bool[NumeroDeContraseñas];
+            Password[] Passwords = new Password[NumeroDeContraseñas];
+            for (int i = 0;i < NumeroDeContraseñas; i++)
+            {
+                Console.WriteLine($"> ¿Cual es la longitud de la contraseña n°{i + 1}?: ");
+                int LongitudDeContraseña = Convert.ToInt16(Console.ReadLine());
+                Passwords[i] = new Password(LongitudDeContraseña);
+                fortalezaDeLaContraseña[i] = Passwords[i].esFuerte();                                                             
+                                                                                                                // 
+                Console.WriteLine($"contraseña {i + 1}: {Passwords[i].Contraseña}, {fortalezaDeLaContraseña[i]}\n\n");
+
+            }
+
+            Console.ReadKey();
         }
     }
 }
