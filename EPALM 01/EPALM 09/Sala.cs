@@ -8,7 +8,7 @@ namespace EPALM_09
 {
     internal class Sala
     {
-        public bool[,] _sala = new bool[9,8];
+        public bool[,] _lugares = new bool[9,8];
 
         public Sala() 
         {
@@ -16,7 +16,7 @@ namespace EPALM_09
             {
                 for(int j = 0; j < 8; j++) 
                 {
-                    _sala[i, j] = false;
+                    _lugares[i, j] = false;
                 }
             }
         }
