@@ -1,0 +1,11 @@
+C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\Windows Forms\Windows Forms\bin\Debug\Windows Forms.exe.config
+C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\Windows Forms\Windows Forms\bin\Debug\Windows Forms.exe
+C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\Windows Forms\Windows Forms\bin\Debug\Windows Forms.pdb
+C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\Windows Forms\Windows Forms\obj\Debug\Windows Forms.csproj.AssemblyReference.cache
+C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\Windows Forms\Windows Forms\obj\Debug\Windows Forms.csproj.SuggestedBindingRedirects.cache
+C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\Windows Forms\Windows Forms\obj\Debug\Windows_Forms.Form1.resources
+C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\Windows Forms\Windows Forms\obj\Debug\Windows_Forms.Properties.Resources.resources
+C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\Windows Forms\Windows Forms\obj\Debug\Windows Forms.csproj.GenerateResource.cache
+C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\Windows Forms\Windows Forms\obj\Debug\Windows Forms.csproj.CoreCompileInputs.cache
+C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\Windows Forms\Windows Forms\obj\Debug\Windows Forms.exe
+C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\Windows Forms\Windows Forms\obj\Debug\Windows Forms.pdb

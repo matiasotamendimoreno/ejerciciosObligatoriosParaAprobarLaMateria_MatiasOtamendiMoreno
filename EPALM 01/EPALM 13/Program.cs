@@ -28,14 +28,23 @@ namespace EPALM_13
 
             for (int i = 0; i < _empleadoComercialLista.Count(); i++)
             {
-                Console.WriteLine($"| {_empleadoComercialLista[i]}");
+                Console.Write($"| Recibe el PLUS (True/False): {_empleadoComercialLista[i].Plus()}");
+                Console.Write($" / {_empleadoComercialLista[i].Nombre}");
+                Console.Write($" / {_empleadoComercialLista[i].Edad}");
+                Console.Write($" / {_empleadoComercialLista[i].Salario}");
+                Console.WriteLine($" / {_empleadoComercialLista[i].Comision}");
             }
 
-            Console.WriteLine("\n| Esta es la lista de repartidores:");
+            Console.WriteLine("- - -\n| Esta es la lista de repartidores:");
 
             for (int i = 0; i < _empleadoDeliveryLista.Count(); i++)
             {
-                Console.WriteLine($"| {_empleadoDeliveryLista[i]}");
+                Console.Write($"| Recibe el PLUS (True/False): {_empleadoDeliveryLista[i].Plus()}");
+                Console.Write($" / {_empleadoDeliveryLista[i].Nombre}");
+                Console.Write($" / {_empleadoDeliveryLista[i].Edad}");
+                Console.Write($" / {_empleadoDeliveryLista[i].Salario}");
+                Console.Write($" / {_empleadoDeliveryLista[i].Zona}");
+                Console.WriteLine($" / {_empleadoDeliveryLista[i].PLUS}");
             }
 
             Console.ReadKey();
