@@ -32,15 +32,18 @@ namespace EPALM_14
             {
                 Console.Write($"| Producto: {_noPerecederos[i].Nombre}");
                 Console.Write($" / Precio: {_noPerecederos[i].Precio}");
-                Console.WriteLine($" / Tipo de producto: {_noPerecederos[i].Tipo}");
+                Console.Write($" / Tipo de producto: {_noPerecederos[i].Tipo}");
+                Console.WriteLine($" / Precio calculado: {_noPerecederos[i].Calcular(5)}");
             }
+            
 
             Console.WriteLine("} - - - - - - - - - - - - - - - - - - - - - - - - -\n| Lista de productos PERECEDEROS:");
             for (int i = 0; i < _perecederos.Count; i++)
             {
                 Console.Write($"| Producto: {_perecederos[i].Nombre}");
                 Console.Write($" / Precio: {_perecederos[i].Precio}");
-                Console.WriteLine($" / Dias a caducar: {_perecederos[i].DiasACaducar}");
+                Console.Write($" / Dias a caducar: {_perecederos[i].DiasACaducar}");
+                Console.WriteLine($" / Precio calculado: {_perecederos[i].Calcular(5)}");
             }
 
             Console.ReadKey();

@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\\EPALM 01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC4B73DE-253E-419B-AB13-58065AD7466B}|EPALM 17\\EPALM 17.csproj|C:\\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\\EPALM 01\\epalm 17\\barajafrancesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC4B73DE-253E-419B-AB13-58065AD7466B}|EPALM 17\\EPALM 17.csproj|solutionrelative:epalm 17\\barajafrancesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC4B73DE-253E-419B-AB13-58065AD7466B}|EPALM 17\\EPALM 17.csproj|c:\\ejerciciosobligatoriosparaaprobarlamateria_matiasotamendimoreno\\epalm 01\\epalm 17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC4B73DE-253E-419B-AB13-58065AD7466B}|EPALM 17\\EPALM 17.csproj|solutionrelative:epalm 17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC4B73DE-253E-419B-AB13-58065AD7466B}|EPALM 17\\EPALM 17.csproj|C:\\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\\EPALM 01\\epalm 17\\barajaespa\u00F1ola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC4B73DE-253E-419B-AB13-58065AD7466B}|EPALM 17\\EPALM 17.csproj|solutionrelative:epalm 17\\barajaespa\u00F1ola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC4B73DE-253E-419B-AB13-58065AD7466B}|EPALM 17\\EPALM 17.csproj|C:\\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\\EPALM 01\\epalm 17\\baraja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC4B73DE-253E-419B-AB13-58065AD7466B}|EPALM 17\\EPALM 17.csproj|solutionrelative:epalm 17\\baraja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC4B73DE-253E-419B-AB13-58065AD7466B}|EPALM 17\\EPALM 17.csproj|C:\\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\\EPALM 01\\epalm 17\\carta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC4B73DE-253E-419B-AB13-58065AD7466B}|EPALM 17\\EPALM 17.csproj|solutionrelative:epalm 17\\carta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\\EPALM 01\\EPALM 17\\Program.cs",
+              "RelativeDocumentMoniker": "EPALM 17\\Program.cs",
+              "ToolTip": "C:\\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\\EPALM 01\\EPALM 17\\Program.cs",
+              "RelativeToolTip": "EPALM 17\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwBAAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T19:51:02.613Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BarajaFrancesa.cs",
+              "DocumentMoniker": "C:\\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\\EPALM 01\\EPALM 17\\BarajaFrancesa.cs",
+              "RelativeDocumentMoniker": "EPALM 17\\BarajaFrancesa.cs",
+              "ToolTip": "C:\\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\\EPALM 01\\EPALM 17\\BarajaFrancesa.cs",
+              "RelativeToolTip": "EPALM 17\\BarajaFrancesa.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T19:04:18.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BarajaEspa\u00F1ola.cs",
+              "DocumentMoniker": "C:\\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\\EPALM 01\\EPALM 17\\BarajaEspa\u00F1ola.cs",
+              "RelativeDocumentMoniker": "EPALM 17\\BarajaEspa\u00F1ola.cs",
+              "ToolTip": "C:\\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\\EPALM 01\\EPALM 17\\BarajaEspa\u00F1ola.cs",
+              "RelativeToolTip": "EPALM 17\\BarajaEspa\u00F1ola.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T20:05:53.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Baraja.cs",
+              "DocumentMoniker": "C:\\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\\EPALM 01\\EPALM 17\\Baraja.cs",
+              "RelativeDocumentMoniker": "EPALM 17\\Baraja.cs",
+              "ToolTip": "C:\\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\\EPALM 01\\EPALM 17\\Baraja.cs",
+              "RelativeToolTip": "EPALM 17\\Baraja.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T20:00:33.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Carta.cs",
+              "DocumentMoniker": "C:\\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\\EPALM 01\\EPALM 17\\Carta.cs",
+              "RelativeDocumentMoniker": "EPALM 17\\Carta.cs",
+              "ToolTip": "C:\\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\\EPALM 01\\EPALM 17\\Carta.cs",
+              "RelativeToolTip": "EPALM 17\\Carta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T20:03:12.836Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

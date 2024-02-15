@@ -1,0 +1,11 @@
+C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\Windows Forms\Lista de texto\bin\Debug\Lista de texto.exe.config
+C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\Windows Forms\Lista de texto\bin\Debug\Lista de texto.exe
+C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\Windows Forms\Lista de texto\bin\Debug\Lista de texto.pdb
+C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\Windows Forms\Lista de texto\obj\Debug\Lista de texto.csproj.AssemblyReference.cache
+C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\Windows Forms\Lista de texto\obj\Debug\Lista de texto.csproj.SuggestedBindingRedirects.cache
+C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\Windows Forms\Lista de texto\obj\Debug\Lista_de_texto.Form1.resources
+C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\Windows Forms\Lista de texto\obj\Debug\Lista_de_texto.Properties.Resources.resources
+C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\Windows Forms\Lista de texto\obj\Debug\Lista de texto.csproj.GenerateResource.cache
+C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\Windows Forms\Lista de texto\obj\Debug\Lista de texto.csproj.CoreCompileInputs.cache
+C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\Windows Forms\Lista de texto\obj\Debug\Lista de texto.exe
+C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\Windows Forms\Lista de texto\obj\Debug\Lista de texto.pdb

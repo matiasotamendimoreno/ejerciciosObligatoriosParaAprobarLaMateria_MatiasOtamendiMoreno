@@ -1,0 +1,11 @@
+C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\Windows Forms\Visor de imagenes\bin\Debug\Visor de imagenes.exe.config
+C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\Windows Forms\Visor de imagenes\bin\Debug\Visor de imagenes.exe
+C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\Windows Forms\Visor de imagenes\bin\Debug\Visor de imagenes.pdb
+C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\Windows Forms\Visor de imagenes\obj\Debug\Visor de imagenes.csproj.AssemblyReference.cache
+C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\Windows Forms\Visor de imagenes\obj\Debug\Visor de imagenes.csproj.SuggestedBindingRedirects.cache
+C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\Windows Forms\Visor de imagenes\obj\Debug\Visor_de_imagenes.Form1.resources
+C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\Windows Forms\Visor de imagenes\obj\Debug\Visor_de_imagenes.Properties.Resources.resources
+C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\Windows Forms\Visor de imagenes\obj\Debug\Visor de imagenes.csproj.GenerateResource.cache
+C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\Windows Forms\Visor de imagenes\obj\Debug\Visor de imagenes.csproj.CoreCompileInputs.cache
+C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\Windows Forms\Visor de imagenes\obj\Debug\Visor de imagenes.exe
+C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\Windows Forms\Visor de imagenes\obj\Debug\Visor de imagenes.pdb

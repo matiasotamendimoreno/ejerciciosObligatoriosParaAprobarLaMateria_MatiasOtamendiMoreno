@@ -5,6 +5,10 @@ VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Windows Forms", "Windows Forms\Windows Forms.csproj", "{727DFB04-8D65-4F9D-957D-7651920A95F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista de texto", "Lista de texto\Lista de texto.csproj", "{D00FEA30-576D-4576-90B7-3EA6D0BD97CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visor de imagenes", "Visor de imagenes\Visor de imagenes.csproj", "{91D94058-3985-4E0D-B569-C743396487C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{727DFB04-8D65-4F9D-957D-7651920A95F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{727DFB04-8D65-4F9D-957D-7651920A95F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{727DFB04-8D65-4F9D-957D-7651920A95F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D00FEA30-576D-4576-90B7-3EA6D0BD97CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D00FEA30-576D-4576-90B7-3EA6D0BD97CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D00FEA30-576D-4576-90B7-3EA6D0BD97CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D00FEA30-576D-4576-90B7-3EA6D0BD97CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91D94058-3985-4E0D-B569-C743396487C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91D94058-3985-4E0D-B569-C743396487C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91D94058-3985-4E0D-B569-C743396487C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91D94058-3985-4E0D-B569-C743396487C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
