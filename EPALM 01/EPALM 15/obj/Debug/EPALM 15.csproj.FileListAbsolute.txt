@@ -1,0 +1,7 @@
+C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\EPALM 01\EPALM 15\obj\Debug\EPALM 15.csproj.AssemblyReference.cache
+C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\EPALM 01\EPALM 15\obj\Debug\EPALM 15.csproj.CoreCompileInputs.cache
+C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\EPALM 01\EPALM 15\bin\Debug\EPALM 15.exe.config
+C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\EPALM 01\EPALM 15\bin\Debug\EPALM 15.exe
+C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\EPALM 01\EPALM 15\bin\Debug\EPALM 15.pdb
+C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\EPALM 01\EPALM 15\obj\Debug\EPALM 15.exe
+C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\EPALM 01\EPALM 15\obj\Debug\EPALM 15.pdb

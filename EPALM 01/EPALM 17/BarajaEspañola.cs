@@ -12,9 +12,10 @@ namespace EPALM_17
 
         List<Carta<PalosBarEspanola>> _baraja = new List<Carta<PalosBarEspanola>>();
 
-        public BarajaEspañola(bool _truco) : base(_pos)
+        public BarajaEspañola(int _pos, bool _truco) : base(_pos)
         {
             this._truco = _truco;
+            crearBaraja();
         }
         public override void crearBaraja()
         {

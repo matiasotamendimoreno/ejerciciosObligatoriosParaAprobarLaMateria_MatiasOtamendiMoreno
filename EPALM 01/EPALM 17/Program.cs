@@ -13,10 +13,10 @@ namespace EPALM_17
     {
         static void Main(string[] args)
         {
-            BarajaEspañola _espanolaTruco = new BarajaEspañola(true);
-            BarajaEspañola _espanolaEnvido = new BarajaEspañola();
+            BarajaEspañola _espanolaTruco = new BarajaEspañola(0, true);
+            BarajaEspañola _espanolaEnvido = new BarajaEspañola(0, false);
 
-            BarajaFrancesa _segunda = new BarajaFrancesa();
+            BarajaFrancesa _segunda = new BarajaFrancesa(0);
 
             _espanolaTruco.crearBaraja();
             _espanolaEnvido.crearBaraja();

@@ -2,7 +2,6 @@ C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\EPALM 01\EPAL
 C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\EPALM 01\EPALM 16\bin\Debug\EPALM 16.exe
 C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\EPALM 01\EPALM 16\bin\Debug\EPALM 16.pdb
 C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\EPALM 01\EPALM 16\obj\Debug\EPALM 16.csproj.AssemblyReference.cache
-C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\EPALM 01\EPALM 16\obj\Debug\EPALM 16.csproj.SuggestedBindingRedirects.cache
 C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\EPALM 01\EPALM 16\obj\Debug\EPALM 16.csproj.CoreCompileInputs.cache
 C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\EPALM 01\EPALM 16\obj\Debug\EPALM 16.exe
 C:\ejerciciosObligatoriosParaAprobarLaMateria_MatiasOtamendiMoreno\EPALM 01\EPALM 16\obj\Debug\EPALM 16.pdb
