@@ -35,7 +35,6 @@
             this.cerrar = new System.Windows.Forms.ToolStripButton();
             this.visorDeImagenes = new System.Windows.Forms.PictureBox();
             this.Zoom = new System.Windows.Forms.TrackBar();
-            this.Historial = new System.Windows.Forms.ListBox();
             this.buttonEspejar = new System.Windows.Forms.Button();
             this.buttonGirarMenos = new System.Windows.Forms.Button();
             this.buttonGirarMas = new System.Windows.Forms.Button();
@@ -53,7 +52,7 @@
             this.cerrar});
             this.barraDeHerramientas.Location = new System.Drawing.Point(0, 0);
             this.barraDeHerramientas.Name = "barraDeHerramientas";
-            this.barraDeHerramientas.Size = new System.Drawing.Size(997, 25);
+            this.barraDeHerramientas.Size = new System.Drawing.Size(806, 25);
             this.barraDeHerramientas.TabIndex = 0;
             this.barraDeHerramientas.Text = "toolStrip1";
             // 
@@ -80,7 +79,7 @@
             // 
             // visorDeImagenes
             // 
-            this.visorDeImagenes.Location = new System.Drawing.Point(13, 28);
+            this.visorDeImagenes.Location = new System.Drawing.Point(12, 28);
             this.visorDeImagenes.Name = "visorDeImagenes";
             this.visorDeImagenes.Size = new System.Drawing.Size(785, 295);
             this.visorDeImagenes.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
@@ -94,14 +93,6 @@
             this.Zoom.Size = new System.Drawing.Size(166, 45);
             this.Zoom.TabIndex = 4;
             this.Zoom.Scroll += new System.EventHandler(this.Zoom_Scroll);
-            // 
-            // Historial
-            // 
-            this.Historial.FormattingEnabled = true;
-            this.Historial.Location = new System.Drawing.Point(804, 28);
-            this.Historial.Name = "Historial";
-            this.Historial.Size = new System.Drawing.Size(181, 342);
-            this.Historial.TabIndex = 2;
             // 
             // buttonEspejar
             // 
@@ -146,11 +137,10 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(997, 450);
+            this.ClientSize = new System.Drawing.Size(806, 450);
             this.Controls.Add(this.buttonGirarMas);
             this.Controls.Add(this.buttonGirarMenos);
             this.Controls.Add(this.buttonEspejar);
-            this.Controls.Add(this.Historial);
             this.Controls.Add(this.visorDeImagenes);
             this.Controls.Add(this.barraDeHerramientas);
             this.Controls.Add(this.Zoom);
@@ -173,7 +163,6 @@
         private System.Windows.Forms.ToolStripButton seleccionarImagen;
         private System.Windows.Forms.ToolStripButton cerrar;
         private System.Windows.Forms.PictureBox visorDeImagenes;
-        private System.Windows.Forms.ListBox Historial;
         private System.Windows.Forms.Button buttonEspejar;
         private System.Windows.Forms.Button buttonGirarMenos;
         private System.Windows.Forms.Button buttonGirarMas;

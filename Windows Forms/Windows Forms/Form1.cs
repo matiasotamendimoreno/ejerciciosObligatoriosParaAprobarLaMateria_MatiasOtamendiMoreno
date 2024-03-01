@@ -23,7 +23,7 @@ namespace Windows_Forms
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Random _rnd = new Random();
+             Random _rnd = new Random();
             List<string> _titulo = new List<string>();
             _titulo.Add("Titulo 1.");
             _titulo.Add("Titulo 2.");
